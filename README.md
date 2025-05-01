@@ -21,6 +21,13 @@ Learning Objectives
 
 #    UI/UX Design Planning
 
+##    Key Features
+
+        Property search and filtering
+        Detailed property viewing
+        Secure checkout process
+        User authentication
+        
 ##    Design Goals
 
         Create intuitive booking flow
@@ -41,10 +48,5 @@ Learning Objectives
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 
-##    Key Features
 
-        Property search and filtering
-        Detailed property viewing
-        Secure checkout process
-        User authentication
 
