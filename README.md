@@ -47,6 +47,22 @@ Learning Objectives
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+## Figma Design Specifications
 
+### Color Styles:
 
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`
 
+### Typography:
+
+- **Primary Font:** Circular, Medium (500), 16px  
+- **Headings:** Circular, Bold (700), 24px–32px  
+- **Secondary Text:** Circular, Book (400), 14px
+
+### Importance of a user-friendly design in a booking system:
+
+A user-friendly design in a booking system ensures easy navigation, reduces errors, enhances user satisfaction, speeds up the booking process, and increases conversion rates by making the experience seamless and intuitive.
