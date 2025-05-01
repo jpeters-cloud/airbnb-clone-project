@@ -63,6 +63,22 @@ A well-designed booking system reduces friction in the user journey, increases c
 - **Headings:** Circular, Bold (700), 24px–32px  
 - **Secondary Text:** Circular, Book (400), 14px
 
-### Importance of a user-friendly design in a booking system:
+### Importance of identifying design properties of a mock up design:
 
-A user-friendly design in a booking system ensures easy navigation, reduces errors, enhances user satisfaction, speeds up the booking process, and increases conversion rates by making the experience seamless and intuitive.
+Identifying design properties of a mockup design ensures consistency, guides development, improves communication among stakeholders, and helps evaluate usability, aesthetics, and functionality before final implementation or development begins.
+      
+#   Project Roles and Responsibilities
+
+| Role                | Responsibilities                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| Project Manager     | Oversees timeline, coordinates team, manages deliverables                        |
+| Frontend Developers | Implements UI components, ensures responsive design                              |
+| Backend Developers  | Builds APIs, manages database, implements business logic                         |
+| Designers           | Creates mockups, maintains design system, ensures UX quality                     |
+| QA/Testers          | Writes test cases, performs testing, reports bugs                                |
+| DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure                        |
+| Product Owner       | Defines requirements, prioritizes features, represents stakeholders              |
+| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings                |
+
+
+ 
